@@ -148,3 +148,6 @@ site/lesson-code/
 .project-validation/
 projects/*/solution/output/
 projects/*/solution/demo-output/
+*.pt
+*.pth
+*.safetensors
